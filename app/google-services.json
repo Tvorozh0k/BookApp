@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "650445366431",
+    "firebase_url": "https://book-app-1aab2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "book-app-1aab2",
+    "storage_bucket": "book-app-1aab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650445366431:android:dc419071ba2a8eddec6eaa",
+        "android_client_info": {
+          "package_name": "com.example.bookapp_moskvitin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAsRyDYNuFCDWMH5pBZV5jmTGV2pJRDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookApp_Moskvitin</string>
+    <string name="new_user_signup">Нет аккаунта? <b>Зарегистрироваться</b></string>
+</resources>
